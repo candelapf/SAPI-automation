@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints
+
+# Power BI temporales y backups
+*.pbix.tmp
+~$*.pbix
+
+# SO
+.DS_Store
+Thumbs.db
+desktop.ini
